@@ -1,0 +1,7 @@
+[2019-05-31 20:23:33 -0400] [67985] [INFO] Starting gunicorn 19.9.0
+[2019-05-31 20:23:33 -0400] [67985] [INFO] Listening at: http://0.0.0.0:8083 (67985)
+[2019-05-31 20:23:33 -0400] [67985] [INFO] Using worker: sync
+[2019-05-31 20:23:33 -0400] [68084] [INFO] Booting worker with pid: 68084
+[2019-05-31 20:23:47 -0400] [67985] [INFO] Handling signal: term
+[2019-05-31 20:23:47 -0400] [68084] [INFO] Worker exiting (pid: 68084)
+[2019-05-31 20:23:47 -0400] [67985] [INFO] Shutting down: Master
