@@ -1,1 +1,1 @@
-gunicorn -b :8083 story:app
+nohup gunicorn -b :8083 story:app &> nohup-story-book.out
